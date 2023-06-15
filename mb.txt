@@ -1,1 +1,2 @@
 master에서 작성한 mb.txt ver1
+master에서 작성한 mb.txt ver2
